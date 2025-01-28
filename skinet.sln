@@ -11,7 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docker", "docker", "{E0704818-74A3-41F0-88E1-04F14A6C8E9A}"
 	ProjectSection(SolutionItems) = preProject
-		docker-compose.yml = docker-compose.yml
+		docker-compose-mssql.yml = docker-compose-mssql.yml
+		docker-compose-postgre.yml = docker-compose-postgre.yml
 	EndProjectSection
 EndProject
 Global
